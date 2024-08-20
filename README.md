@@ -54,3 +54,21 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, existem 46cursos com
 - [DIO](https://www.dio.me/) Publishing Your REST API to the Cloud Using Spring Boot 3, Java 17 and Railway  [here](https://hermes.dio.me/certificates/EGXWRXSH.pdf)
 - [DIO](https://www.dio.me/) Working in Agile Teams [here](https://hermes.dio.me/certificates/C3FBADPL.pdf)
 - [DIO](https://www.dio.me/)Santander 2024 - Backend with Java  [here](https://hermes.dio.me/certificates/MY0H0EHZ.pdf)
+
+ ## Banco de dado <a name="certification"></a> :star:
+ 
+- [AWS]
+- [NOSQL]
+- [MYSQL]
+- [POSTGRESQL]
+
+
+## FERRAMENTAS <a name="certification"></a> :star:
+
+- [INTELLIJ]
+- [DOCKER]
+- [INSOMNIA]
+- [VISUAL STUDIO CODE]
+  
+
+ 
