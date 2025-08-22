@@ -2,6 +2,8 @@
 
 Reserved repository to list a little of my `academic life.`:heart_eyes:
 
+💻 Bacharelado em Engenharia de Software 2/8 Universidado Estácio
+
 
 ## Index :pushpin:
 - [Academic Education](#education)
